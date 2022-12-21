@@ -1,5 +1,5 @@
 ## Description
-This resource adds the custom texture flag props to FiveM, that are used in the Capture The Flag resource I made.
+This resource adds the custom texture flag props to FiveM, that are used in the Capture The Flag resource I made. Add this resource to your FiveM server and ensure/start it in the server.cfg.
 
 ## Features
 * Flags with collision.
