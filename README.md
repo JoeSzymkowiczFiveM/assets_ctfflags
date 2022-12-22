@@ -10,4 +10,4 @@ This resource adds the custom texture flag props to FiveM, that are used in the 
 - [TayMcKenzieNZ](https://github.com/TayMcKenzieNZ/rpemotes) for the flag models that I used as a base for these.
 
 ## Preview
-![image](https://user-images.githubusercontent.com/70592880/208973909-c417db92-666f-468e-bab0-924fe4682e27.png)
+![image](https://user-images.githubusercontent.com/70592880/209036373-773f6604-ed30-431a-a7bc-9edd86326f2b.png)
