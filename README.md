@@ -1,6 +1,8 @@
 ## Description
 This resource adds the custom texture flag props to FiveM, that are used in the Capture The Flag resource I made. Add this resource to your FiveM server and ensure/start it in the server.cfg.
 
+It's a dependency of the [js5m-ctf](https://github.com/JoeSzymkowiczFiveM/js5m-ctf) FiveM script.
+
 ## Features
 * Flags with collision.
 * Model names are `ctfredflag` and `ctfblueflag`.
