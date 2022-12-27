@@ -13,3 +13,6 @@ It's a dependency of the [js5m-ctf](https://github.com/JoeSzymkowiczFiveM/js5m-c
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/70592880/209036373-773f6604-ed30-431a-a7bc-9edd86326f2b.png)
+
+## Discord
+[Joe Szymkowicz FiveM Development](https://discord.gg/5vPGxyCB4z)
